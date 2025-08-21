@@ -1,7 +1,7 @@
 import { Hono } from "hono";
 import "dotenv/config";
 import userRoute from "./routes/user.js";
-import Layout from "./layout.js";
+import Layout from "./components/layout.js";
 
 //await mongoose.connect("")
 

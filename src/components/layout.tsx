@@ -1,5 +1,5 @@
 import type { FC } from 'hono/jsx'
-import Navbar from './components/navbar.js'
+import Navbar from './navbar.js'
 
 const Layout: FC = (props) => {
   return (
