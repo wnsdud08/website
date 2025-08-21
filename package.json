@@ -1,6 +1,7 @@
 {
   "name": "website",
   "type": "module",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "tsx watch src/node.ts",
     "build": "tsc",
